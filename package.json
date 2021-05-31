@@ -1,0 +1,15 @@
+{
+  "name": "npm-workspace-lifecycles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "echo \"should this really run?\""
+  },
+  "workspaces": [
+    "a"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
